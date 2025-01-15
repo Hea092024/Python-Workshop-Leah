@@ -16,3 +16,14 @@ def num1Creator():
     print("give first number")
     NummerEn = decimal.Decimal(input())
     Num2Creator(NummerEn)
+
+
+num1Creator()
+
+
+if num == 2:
+    print("hei")
+elif num == 1:
+    print("hade")
+else:
+    print("kansje")
